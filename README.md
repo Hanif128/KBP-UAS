@@ -1,6 +1,6 @@
 Link ke halaman web: https://hanif128.github.io/KBP-UAS/
 
-Proyek ini adalah sebuah aplikasi web sederhana yang dapat digunakan di waktu belajar. Aplikasi ini berisi Pomodoro Timer, To-Do List, dan Spotify untuk menemani waktu belajar Anda.
+Proyek ini adalah sebuah aplikasi web sederhana yang dapat digunakan di waktu belajar. Aplikasi ini berisi Pomodoro Timer, To-Do List, dan Piano Lofi Songs yang tersambung langsung dengan Spotify untuk menemani waktu belajar Anda.
 
 Fitur yang dapat digunakan pada Pomodoro Timer dalam aplikasi tersebut yaitu:
 - Mengatur waktu belajar
@@ -15,7 +15,7 @@ Kemudian, fitur yang dapat digunakan pada To-Do List dalam aplikasi tersebut yai
 - Menandai tugas apabila selesai
 - Menghapus tugas
 
-Kemudian, fitur yang dapat digunakan pada Spotify dalam aplikasi tersebut yaitu:
+Kemudian, fitur yang dapat digunakan pada Piano Lofi Songs dalam aplikasi tersebut yaitu:
 - Memutar lagu yang telah disediakan
 - Pause lagu
 - Play lagu
