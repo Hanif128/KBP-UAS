@@ -1,4 +1,4 @@
-https://hanif128.github.io/KBP-UAS/
+Link ke halaman web: https://hanif128.github.io/KBP-UAS/
 
 Proyek ini adalah sebuah aplikasi web sederhana yang dapat digunakan di waktu belajar. Aplikasi ini berisi Pomodoro Timer, To-Do List, dan Spotify untuk menemani waktu belajar Anda.
 
